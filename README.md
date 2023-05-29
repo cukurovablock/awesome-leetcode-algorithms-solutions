@@ -1,4 +1,4 @@
-# Awsome Leetcode Algorithms Solututions
+# Awesome Leetcode Algorithms Solututions
 
 | Language   | Repo Link                  | Contributors                           |
 | ---------- |----------------------------|----------------------------------------|
