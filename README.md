@@ -1,9 +1,9 @@
 # Awsome Leetcode Algorithms Solututions
 
 | Language   | Repo Link                  | Contributors                           |
-| ---------- | -------------------------- | -------------------------------------- |
+| ---------- |----------------------------|----------------------------------------|
 | Python     | [Pyhton](Python/README.md) | [@muffafa](https://github.com/muffafa) |
-| Java       |                            |                                        |
+| Java       | [JAVA](Java/README.md)     | [@cagridemirtash](https://github.com/cagridemirtash)                    |
 | Javascript |                            |                                        |
 
 ## Introduction
