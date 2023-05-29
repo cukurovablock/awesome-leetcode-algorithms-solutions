@@ -1,9 +1,3 @@
-# Awsome Leetcode Algorithms Solututions With Python
-
-| ID   |        Question Name         |
-| :--- |:----------------------------:|
-| 0001 | [Two Sum](0001-two-sum/q-two-sum.md) |
-
 <div align="center">
   <h1>Awesome Leetcode Algorithms Solututions With Java</h1>
   <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/hanificagridemirtas/">
@@ -38,3 +32,7 @@ Each .md file for a solution includes:
 - Approach (describing the approach to solving the problem)
 - Complexity (determining the time and space complexity of the solution)
 - Code (the actual solution to the problem)
+
+| ID   |        Question Name         |
+| :--- |:----------------------------:|
+| 0001 | [Two Sum](0001-two-sum/q-two-sum.md) |
