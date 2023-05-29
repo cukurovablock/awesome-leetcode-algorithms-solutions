@@ -14,7 +14,7 @@
   </a>
 
   <sub>Author:
-    <a href="https://linktr.ee/muffafa" target="_blank">Hanifi Çağrı Demirtaş</a><br>
+    <a href="" target="_blank">Hanifi Çağrı Demirtaş</a><br>
     <small> February, 2023</small>
   </sub>
 </div>
