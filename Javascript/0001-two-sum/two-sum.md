@@ -1,4 +1,4 @@
-# [Brute Force to solve the Two-Sum Problem on Python language](https://leetcode.com/problems/two-sum/solutions/3576423/brute-force-to-solve-the-two-sum-problem-on-python-language/)
+# [Solving the Two Sums Problem in JavaScript](https://leetcode.com/problems/two-sum/solutions/3576742/solving-the-two-sums-problem-in-javascript/)
 
 ## Approach
 <!-- Describe your approach to solving the problem. -->
@@ -6,7 +6,7 @@ The brute-force approach to solving the two-sum problem involves checking every 
 
 ## Complexity
 
-- Time complexity:
+- Time complexity:O(n^2)
 <!-- Add your time complexity here, e.g. $O(n)$ -->
 The time complexity of the brute-force approach for solving the two-sum problem is $O(n^2)$, where n is the size of the input array. This means that the algorithm's performance will be proportional to the square of the size of the array.
 
@@ -14,7 +14,7 @@ In each iteration of the outer loop, the inner loop will also iterate through al
 
 This means that as the size of the array grows, the number of operations performed by the algorithm will increase rapidly, making it inefficient for large arrays.
 
-- Space complexity:
+- Space complexity:O(1)
 <!-- Add your space complexity here, e.g. $O(n)$ -->
 The space complexity of the brute-force approach for solving the two-sum problem is $O(1)$. This means that the amount of memory used by the algorithm is constant and does not depend on the size of the input array.
 
@@ -26,11 +26,14 @@ Therefore, the space complexity of the algorithm is $O(1)$, which means that it 
 
 ## Code
 
-``` python
-class Solution:
-    def twoSum(self, nums: List[int], target: int) -> List[int]:
-        for i in range(len(nums)):
-            for j in range(i+1, len(nums)):
-                if nums[i] + nums[j] == target:
-                    return [i,j]
+``` javascript
+var twoSum = function(nums, target) {
+    for(let i = 0; i < nums.length; i++) {
+        for(let j = i + 1; j < nums.length; j++) {
+            if (nums[i] + nums[j] === target) {
+                return [i, j];
+            }
+        }
+    }
+};
 ```
