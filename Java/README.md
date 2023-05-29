@@ -1,27 +1,27 @@
 # Awsome Leetcode Algorithms Solututions With Python
 
-| ID   |              Question Name              |
-| :--- | :-------------------------------------: |
-| 0001 | [Two Sum](0001-two-sum/q-two-sum.md) |
+| ID   |        Question Name         |
+| :--- |:----------------------------:|
+| 0001 | [Two Sum](Java/q-two-sum.md) |
 
 <div align="center">
-  <h1>Awsome Leetcode Algorithms Solututions With Python</h1>
-  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/muffafa/">
+  <h1>Awsome Leetcode Algorithms Solututions With Java</h1>
+  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/hanificagridemirtas/">
     <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
   </a>
-  <a class="header-badge" target="_blank" href="https://twitter.com/muffafa">
-    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/muffafa?style=social">
+  <a class="header-badge" target="_blank" href="https://twitter.com/cagridemirtash">
+    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/cagridemirtash?style=social">
   </a>
 
   <sub>Author:
-    <a href="https://linktr.ee/muffafa" target="_blank">Muhammed Mustafa (muffafa) Savar</a><br>
+    <a href="https://linktr.ee/muffafa" target="_blank">Hanifi Çağrı Demirtaş</a><br>
     <small> February, 2023</small>
   </sub>
 </div>
 
 ## Introduction
 
-Welcome to the solutions of leetcode algorithms with Python.
+Welcome to the solutions of leetcode algorithms with Java.
 
 ## How to Use It?
 
