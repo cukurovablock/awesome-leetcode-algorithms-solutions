@@ -2,7 +2,7 @@
 
 | ID   |        Question Name         |
 | :--- |:----------------------------:|
-| 0001 | [Two Sum](Java/q-two-sum.md) |
+| 0001 | [Two Sum](0001-two-sum/q-two-sum.md) |
 
 <div align="center">
   <h1>Awsome Leetcode Algorithms Solututions With Java</h1>
