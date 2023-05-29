@@ -1,10 +1,10 @@
-# Awesome Leetcode Algorithms Solututions
+# Awsome Leetcode Algorithms Solututions
 
 | Language   | Repo Link                  | Contributors                           |
 | ---------- |----------------------------|----------------------------------------|
 | Python     | [Pyhton](Python/README.md) | [@muffafa](https://github.com/muffafa) |
 | Java       | [JAVA](Java/README.md)     | [@cagridemirtash](https://github.com/cagridemirtash)                    |
-| Javascript |                            |                                        |
+| Javascript |[Javascript](Java/README.md)|[@kaanncavdar](https://github.com/kaanncavdar)  |
 
 ## Introduction
 
