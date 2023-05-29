@@ -1,11 +1,11 @@
-# Awsome Leetcode Algorithms Solututions With Python
+# Awesome Leetcode Algorithms Solututions With Python
 
 | ID   |              Question Name              |
 | :--- | :-------------------------------------: |
 | 0001 | [Two Sum](0001-two-sum/q-two-sum.md) |
 
 <div align="center">
-  <h1>Awsome Leetcode Algorithms Solututions With Python</h1>
+  <h1>Awesome Leetcode Algorithms Solututions With Python</h1>
   <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/muffafa/">
     <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
   </a>
