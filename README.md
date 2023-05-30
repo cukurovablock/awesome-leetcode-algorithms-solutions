@@ -30,6 +30,15 @@ Each .md file for a solution includes:
 
 > `git clone https://github.com/muffafa/awsome-leetcode-c-solutions.git`
 
+## Extensions
+
+- [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
+- [Markdown Table](https://marketplace.visualstudio.com/items?itemName=TakumiI.markdowntable)
+- [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
+- [Markdown Preview Github Styling](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-preview-github-styles)
+- [Auto-Open Markdown Preview](https://marketplace.visualstudio.com/items?itemName=hnw.vscode-auto-open-markdown-preview)
+- [vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
+
 ## How to Contribute?
 
 You can create a custom snippet for .md files in Visual Studio Code:
