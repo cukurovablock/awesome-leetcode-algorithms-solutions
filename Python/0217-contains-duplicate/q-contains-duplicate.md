@@ -18,6 +18,6 @@ Given an integer array `nums`, return `true` if any value appears **at least twi
 ## Solutions
 <!-- Solutions of problem and their links. -->
 
-| ID  | METHOD  | LINK |
-| :-- | :-----: | :--- |
-| 1   | example |      |
+| ID  |  METHOD  | LINK                                           |
+| :-- | :------: | :--------------------------------------------- |
+| 1   | Hash Set | [contains-duplicate.md](contains-duplicate.md) |
