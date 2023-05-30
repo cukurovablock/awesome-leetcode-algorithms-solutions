@@ -33,6 +33,7 @@ Each .md file for a solution includes:
 - Complexity (determining the time and space complexity of the solution)
 - Code (the actual solution to the problem)
 
-| ID   |        Question Name         |
-| :--- |:----------------------------:|
-| 0001 | [Two Sum](0001-two-sum/q-two-sum.md) |
+| ID   |                           Question Name                            |
+|:-----|:------------------------------------------------------------------:|
+| 0001 |                [Two Sum](0001-two-sum/q-two-sum.md)                |
+| 0217 | [Duplicate Array](0217-contains-duplicate/q-contains-duplicate.md) |
