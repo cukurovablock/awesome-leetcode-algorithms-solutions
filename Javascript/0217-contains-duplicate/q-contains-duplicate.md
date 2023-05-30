@@ -20,4 +20,4 @@ Given an integer array `nums`, return `true` if any value appears **at least twi
 
 | ID  | METHOD  | LINK |
 | :-- | :-----: | :--- |
-| 1   | example |      |
+| 1   |Sorting Base Approach  |[contains-duplicate.md](contains-duplicate.md)      |
