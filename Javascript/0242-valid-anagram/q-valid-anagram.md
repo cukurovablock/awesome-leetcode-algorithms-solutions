@@ -32,4 +32,4 @@ What if the inputs contain Unicode characters? How would you adapt your solution
 
 | ID  |         METHOD         | LINK                                 |
 | :-- | :--------------------: | :----------------------------------- |
-| 1   | Counts the Frequencies | [valid-anagram.md](valid-anagram.md) |
+| 1   | Split and Sort | [valid-anagram.md](valid-anagram.md) |
