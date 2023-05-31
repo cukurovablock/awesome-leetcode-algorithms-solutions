@@ -1,4 +1,4 @@
-# [Valid Anagram]((https://leetcode.com/problems/valid-anagram/description/))
+# [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
 
 ## Problem
 <!-- Explanation of problem. -->
