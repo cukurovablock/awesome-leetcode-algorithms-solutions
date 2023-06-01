@@ -35,4 +35,4 @@ An **Anagram** is a word or phrase formed by rearranging the letters of a differ
 
 | ID  | METHOD  | LINK                     |
 | :-- | :-----: | :----------------------- |
-| 1   | example | [link](group-anagram.md) |
+| 1   | Object | [link](group-anagram.md) |

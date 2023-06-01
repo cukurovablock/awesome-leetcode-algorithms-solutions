@@ -5,6 +5,7 @@
 | 0001 | [Two Sum](0001-two-sum/q-two-sum.md) |
 | 0217 | [Duplicate Array](0217-contains-duplicate/q-contains-duplicate.md) |
 | 0242 | [Valid Anagram](0242-valid-anagram/q-valid-anagram.md) |
+| 0049 | [Group Anagram](0049-group-anagram/q-group-anagram.md) |
 
 <div align="center">
   <h1>Awesome Leetcode Algorithms Solututions With JavaScript</h1>
