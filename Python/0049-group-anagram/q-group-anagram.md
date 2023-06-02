@@ -33,6 +33,6 @@ An **Anagram** is a word or phrase formed by rearranging the letters of a differ
 ## Solutions
 <!-- Solutions of problem and their links. -->
 
-| ID  | METHOD  | LINK                     |
-| :-- | :-----: | :----------------------- |
-| 1   | example | [link](group-anagram.md) |
+| ID  |         METHOD         | LINK                     |
+| :-- | :--------------------: | :----------------------- |
+| 1   | Counts the Frequencies | [group-anagram](group-anagram.md) |
