@@ -4,7 +4,7 @@
 		"body": [
 			"# [${6:Header}](${7:Link})",
 			"",
-			"## Problem",
+			"## 🚨 Problem",
 			"<!-- Explanation of problem. -->",
 			"${1:Explain the problem}",
 			"",
@@ -22,12 +22,13 @@
 			"**Follow-up:**  ",
 			"<!-- Do more! -->",
 			"",
-			"## Solutions",
+			"## 🔐 Solutions",
 			"<!-- Solutions of problem and their links. -->",
 			"",
-			"| ID  | METHOD  | LINK |",
-			"| :-- | :-----: | :--- |",
-			"| 1   | example |      |"
+			"| ID  | METHOD  | LINK           |",
+			"| :-- | :-----: | :------------- |",
+			"| 1   | example | [answer](link) |",
+			""
 		],
 		"description": "It creates a problem template for leetcode"
 	},
@@ -36,11 +37,16 @@
 		"body": [
 			"# [${5:Header}](${6:link})",
 			"",
-			"## Approach",
+			"## 🧑🏻‍💻 Approach",
 			"<!-- Describe your approach to solving the problem. -->",
 			"${1:Explain the approach}",
 			"",
-			"## Complexity",
+			"## 🔐 Code",
+			"",
+			"``` c",
+			"${4:printf(\"Hello World\");}",
+			"```",
+			"## 🧩 Complexity",
 			"",
 			"- Time complexity:",
 			"<!-- Add your time complexity here, e.g. \\$O(n)$ -->",
@@ -49,12 +55,7 @@
 			"- Space complexity:",
 			"<!-- Add your space complexity here, e.g. \\$O(n)$ -->",
 			"${3:Space Complexity}",
-			"",
-			"## Code",
-			"",
-			"``` c",
-			"${4:printf(\"Hello World\");}",
-			"```"
+			""
 		],
 		"description": "It creates a solution template for leetcode problem"
 	},

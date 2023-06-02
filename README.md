@@ -51,63 +51,77 @@ You can create a custom snippet for .md files in Visual Studio Code:
 5. Now you can easily start contributing!
 
 ``` json
-  "Leetcode Problem Template": {
-    "prefix": "mdproblem",
-    "body": [
-        "# [${6:Header}](${7:Link})",
-        "",
-        "## Problem",
-        "<!-- Explanation of problem. -->",
-        "${1:Explain the problem}",
-        "",
-        "**Example 1:**",
-        "<!-- An example of problem. -->",
-        "",
-        ">**Input:** ${2} </br> <!-- Input example. -->",
-        "**Output:** ${3} </br> <!-- Output example. -->",
-        "**Explanation:** ${4} <!-- Basic explanation of example. -->",
-        "",
-        "**Constraints:**",
-        "<!-- Constraints of problem. -->",
-        "- ${5}",
-        "",
-        "**Follow-up:**  ",
-        "<!-- Do more! -->",
-        "",
-        "## Solutions",
-        "<!-- Solutions of problem and their links. -->",
-        "",
-        "| ID  | METHOD  | LINK |",
-        "| :-- | :-----: | :--- |",
-        "| 1   | example |      |"
-    ],
-    "description": "It creates a problem template for leetcode"
-},
-"Leetcode Solution Template": {
-    "prefix": "mdsolution",
-    "body": [
-        "# [${5:Header}](${6:link})",
-        "",
-        "## Approach",
-        "<!-- Describe your approach to solving the problem. -->",
-        "${1:Explain the approach}",
-        "",
-        "## Complexity",
-        "",
-        "- Time complexity:",
-        "<!-- Add your time complexity here, e.g. \\$O(n)$ -->",
-        "${2:Time Complexity}",
-        "",
-        "- Space complexity:",
-        "<!-- Add your space complexity here, e.g. \\$O(n)$ -->",
-        "${3:Space Complexity}",
-        "",
-        "## Code",
-        "",
-        "``` c",
-        "${4:printf(\"Hello World\");}",
-        "```"
-    ],
-    "description": "It creates a solution template for leetcode problem"
+{
+ "Leetcode Problem Template": {
+  "prefix": "mdproblem",
+  "body": [
+   "# [${6:Header}](${7:Link})",
+   "",
+   "## 🚨 Problem",
+   "<!-- Explanation of problem. -->",
+   "${1:Explain the problem}",
+   "",
+   "**Example 1:**",
+   "<!-- An example of problem. -->",
+   "",
+   ">**Input:** ${2} </br> <!-- Input example. -->",
+   "**Output:** ${3} </br> <!-- Output example. -->",
+   "**Explanation:** ${4} <!-- Basic explanation of example. -->",
+   "",
+   "**Constraints:**",
+   "<!-- Constraints of problem. -->",
+   "- ${5}",
+   "",
+   "**Follow-up:**  ",
+   "<!-- Do more! -->",
+   "",
+   "## 🔐 Solutions",
+   "<!-- Solutions of problem and their links. -->",
+   "",
+   "| ID  | METHOD  | LINK           |",
+   "| :-- | :-----: | :------------- |",
+   "| 1   | example | [answer](link) |",
+   ""
+  ],
+  "description": "It creates a problem template for leetcode"
+ },
+ "Leetcode Solution Template": {
+  "prefix": "mdsolution",
+  "body": [
+   "# [${5:Header}](${6:link})",
+   "",
+   "## 🧑🏻‍💻 Approach",
+   "<!-- Describe your approach to solving the problem. -->",
+   "${1:Explain the approach}",
+   "",
+   "## 🔐 Code",
+   "",
+   "``` c",
+   "${4:printf(\"Hello World\");}",
+   "```",
+   "## 🧩 Complexity",
+   "",
+   "- Time complexity:",
+   "<!-- Add your time complexity here, e.g. \\$O(n)$ -->",
+   "${2:Time Complexity}",
+   "",
+   "- Space complexity:",
+   "<!-- Add your space complexity here, e.g. \\$O(n)$ -->",
+   "${3:Space Complexity}",
+   ""
+  ],
+  "description": "It creates a solution template for leetcode problem"
+ },
+ "Leetcode Example Template": {
+  "prefix": "mdexample",
+  "body": [
+   "**Example ${1}:**",
+   "<!-- An example of problem. -->",
+   "",
+   ">**Input:** ${2} </br> <!-- Input example. -->",
+   "**Output:** ${3} </br> <!-- Output example. -->",
+  ],
+  "description": "It creates a example template for leetcode problem"
+ }
 }
 ```
