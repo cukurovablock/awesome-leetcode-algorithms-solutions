@@ -1,4 +1,4 @@
-# # [✅ Counts the Frequencies to solve the 🧑🏻‍💻 Group Anagram Problem on 🐍 Python language](https://leetcode.com/problems/group-anagrams/solutions/3587269/counts-the-frequencies-to-solve-the-group-anagram-problem-on-python-language/)
+# [✅ Counts the Frequencies to solve the 🧑🏻‍💻 Group Anagram Problem on 🐍 Python language](https://leetcode.com/problems/group-anagrams/solutions/3587269/counts-the-frequencies-to-solve-the-group-anagram-problem-on-python-language/)
 
 ## Approach
 <!-- Describe your approach to solving the problem. -->
