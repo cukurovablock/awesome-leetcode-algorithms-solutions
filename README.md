@@ -30,7 +30,7 @@ Each .md file for a solution includes:
 
 ## How to Clone It?
 
-> `git clone https://github.com/muffafa/awsome-leetcode-c-solutions.git`
+> `git clone https://github.com/cukurovablock/awesome-leetcode-algorithms-solutions.git`
 
 ## Extensions
 
