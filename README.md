@@ -43,6 +43,8 @@ Each .md file for a solution includes:
 
 ## How to Contribute?
 
+[How to Contribute to Open Source Projects on GitHub](https://www.youtube.com/watch?v=waEb2c9NDL8)
+
 You can create a custom snippet for .md files in Visual Studio Code:
 
 1. Open Visual Studio Code, click "File" > "Preferences" > "User Snippets".
