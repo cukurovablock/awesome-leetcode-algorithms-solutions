@@ -1,11 +1,13 @@
 # Awesome Leetcode Algorithms Solututions With Python
 
-| ID   |                             Question Name                             |
-| :--- | :-------------------------------------------------------------------: |
-| 0001 |                 [Two Sum](0001-two-sum/q-two-sum.md)                  |
-| 0217 | [Contains Duplicate](0217-contains-duplicate/q-contains-duplicate.md) |
-| 0242 |        [Valid Anagram](0242-valid-anagram/q-valid-anagram.md)         |
-| 0049 |          [Group Anagram](0049-group-anagram/q-group-anagram.md)          |
+| ID   |                                            Question Name                                            |
+| :--- | :-------------------------------------------------------------------------------------------------: |
+| 0001 |                                [Two Sum](0001-two-sum/q-two-sum.md)                                 |
+| 0217 |                [Contains Duplicate](0217-contains-duplicate/q-contains-duplicate.md)                |
+| 0242 |                       [Valid Anagram](0242-valid-anagram/q-valid-anagram.md)                        |
+| 0049 |                       [Group Anagram](0049-group-anagram/q-group-anagram.md)                        |
+| 0347 |        [Top K Frequent Elements](0347-top-k-frequent-elements/q-top-k-frequent-elements.md)         |
+| 0238 | [Product Of Array Except Self](0238-product-of-array-except-self/q-product-of-array-except-self.md) |
 
 <div align="center">
   <h1>Awesome Leetcode Algorithms Solututions With Python</h1>
