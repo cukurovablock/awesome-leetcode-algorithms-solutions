@@ -6,6 +6,7 @@
 | Java       | [JAVA](Java/README.md)             | [@cagridemirtash](https://github.com/cagridemirtash) |
 | Javascript | [Javascript](Javascript/README.md) | [@kaanncavdar](https://github.com/kaanncavdar)       |
 | Rust       | [Rust](Rust/README.md)             | [@sektor7k](https://github.com/sektor7k)             |
+| C++        | [Cpp](Cpp/README.md)               | [@sametaydinq](https://github.com/sametaydinq)       |
 
 ## Introduction
 
