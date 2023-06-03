@@ -91,7 +91,7 @@ You can create a custom snippet for .md files in Visual Studio Code:
  "Leetcode Solution Template": {
   "prefix": "mdsolution",
   "body": [
-   "# [${5:Header}](${6:link})",
+   "# [${6:Header}](${7:link})",
    "",
    "## 🧑🏻‍💻 Approach",
    "<!-- Describe your approach to solving the problem. -->",
@@ -99,18 +99,19 @@ You can create a custom snippet for .md files in Visual Studio Code:
    "",
    "## 🔐 Code",
    "",
-   "``` c",
-   "${4:printf(\"Hello World\");}",
+   "``` ${2:Programming language}",
+   "${3:printf(\"Hello World\");}",
    "```",
+   "",
    "## 🧩 Complexity",
    "",
    "- Time complexity:",
    "<!-- Add your time complexity here, e.g. \\$O(n)$ -->",
-   "${2:Time Complexity}",
+   "${4:Time Complexity}",
    "",
    "- Space complexity:",
    "<!-- Add your space complexity here, e.g. \\$O(n)$ -->",
-   "${3:Space Complexity}",
+   "${5:Space Complexity}",
    ""
   ],
   "description": "It creates a solution template for leetcode problem"
