@@ -30,6 +30,6 @@ Your algorithm's time complexity must be better than `O(n log n)`, where n is th
 ## 🔐 Solutions
 <!-- Solutions of problem and their links. -->
 
-| ID  | METHOD  | LINK                                                     |
-| :-- | :-----: | :------------------------------------------------------- |
-| 1   | example | [top-k-frequent-elements.md](top-k-frequent-elements.md) |
+| ID  |         METHOD         |
+| :-- | :--------------------: |
+| 1   | [example](1-answer.md) |

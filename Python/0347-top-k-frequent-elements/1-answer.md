@@ -6,9 +6,10 @@ Explain the approach
 
 ## 🔐 Code
 
-``` c
+``` python
 printf("Hello World");
 ```
+
 ## 🧩 Complexity
 
 - Time complexity:

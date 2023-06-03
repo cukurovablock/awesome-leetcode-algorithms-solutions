@@ -32,6 +32,6 @@ Can you solve the problem in `O(1)` extra space complexity? (The output array *
 ## 🔐 Solutions
 <!-- Solutions of problem and their links. -->
 
-| ID  | METHOD  | LINK                                                               |
-| :-- | :-----: | :----------------------------------------------------------------- |
-| 1   | example | [product-of-array-except-self.md](product-of-array-except-self.md) |
+| ID  |         METHOD         |
+| :-- | :--------------------: |
+| 1   | [example](1-answer.md) |

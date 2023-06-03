@@ -30,6 +30,6 @@ What if the inputs contain Unicode characters? How would you adapt your solution
 ## 🔐 Solutions
 <!-- Solutions of problem and their links. -->
 
-| ID  |         METHOD         | LINK                                 |
-| :-- | :--------------------: | :----------------------------------- |
-| 1   | Counts the Frequencies | [valid-anagram.md](valid-anagram.md) |
+| ID  |                METHOD                 |
+| :-- | :-----------------------------------: |
+| 1   | [Counts the Frequencies](1-answer.md) |

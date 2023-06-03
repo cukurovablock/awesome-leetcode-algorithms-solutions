@@ -35,7 +35,7 @@ You can return the answer in any order.
 
 ## 🔐 Solutions
 
-| ID  |   METHOD    | LINK                               |
-| :-- | :---------: | :--------------------------------- |
-| 1   | Brute Force | [two-sum.md](two-sum.md)           |
-| 2   | Hash Table  | [two-sum-hash.md](two-sum-hash.md) |
+| ID  |           METHOD           |
+| :-- | :------------------------: |
+| 1   | [Brute Force](1-answer.md) |
+| 2   | [Hash Table](2-answer.md)  |
