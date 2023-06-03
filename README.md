@@ -83,9 +83,9 @@ You can create a custom snippet for .md files in Visual Studio Code:
    "## 🔐 Solutions",
    "<!-- Solutions of problem and their links. -->",
    "",
-   "| ID  | METHOD  | LINK           |",
-   "| :-- | :-----: | :------------- |",
-   "| 1   | example | [answer](link) |",
+   "| ID  |         METHOD         |",
+   "| :-- | :--------------------: |",
+   "| 1   | [example](1-answer.md) |",
    ""
   ],
   "description": "It creates a problem template for leetcode"
