@@ -32,4 +32,4 @@ Your algorithm's time complexity must be better than `O(n log n)`, where n is th
 
 | ID  |         METHOD         |
 | :-- | :--------------------: |
-| 1   | [example](1-answer.md) |
+| 1   | [Count And Sort](1-answer.md) |
