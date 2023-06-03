@@ -1,20 +1,10 @@
 # [✅ Counts the Frequencies to solve the 🧑🏻‍💻 Group Anagram Problem on 🐍 Python language](https://leetcode.com/problems/group-anagrams/solutions/3587269/counts-the-frequencies-to-solve-the-group-anagram-problem-on-python-language/)
 
-## Approach
+## 🧑🏻‍💻 Approach
 <!-- Describe your approach to solving the problem. -->
 the approach counts the occurrences of each letter in the words and groups the anagrams together based on their letter counts using a dictionary.
 
-## Complexity
-
-- Time complexity:
-<!-- Add your time complexity here, e.g. $O(n)$ -->
-The time complexity of the solution is $O(n \* k)$, where n is the number of words in the input list `strs` and k is the maximum length of the words. In the worst case, where all words have the same maximum length, the time complexity simplifies to $O(n \* m)$, where m is the maximum length of the words. The constant-time operations performed inside the loops do not significantly impact the overall time complexity. Thus, the solution has a linear time complexity with respect to the size of the input list and the maximum length of the words.
-
-- Space complexity:
-<!-- Add your space complexity here, e.g. $O(n)$ -->
-The space complexity of the solution is $O(n)$, where n is the number of words in the input list `strs`. The `ans` dictionary, which stores the groups of anagrams, is the main factor contributing to the space complexity. The additional space used for the `count` list and other variables is constant and does not significantly affect the overall space requirement. Hence, the space complexity is linear with respect to the size of the input list.
-
-## Code
+## 🔐 Code
 
 ``` python
 class Solution:
@@ -47,3 +37,13 @@ class Solution:
 
         return ans.values()
 ```
+
+## 🧩 Complexity
+
+- Time complexity:
+<!-- Add your time complexity here, e.g. $O(n)$ -->
+The time complexity of the solution is $O(n \* k)$, where n is the number of words in the input list `strs` and k is the maximum length of the words. In the worst case, where all words have the same maximum length, the time complexity simplifies to $O(n \* m)$, where m is the maximum length of the words. The constant-time operations performed inside the loops do not significantly impact the overall time complexity. Thus, the solution has a linear time complexity with respect to the size of the input list and the maximum length of the words.
+
+- Space complexity:
+<!-- Add your space complexity here, e.g. $O(n)$ -->
+The space complexity of the solution is $O(n)$, where n is the number of words in the input list `strs`. The `ans` dictionary, which stores the groups of anagrams, is the main factor contributing to the space complexity. The additional space used for the `count` list and other variables is constant and does not significantly affect the overall space requirement. Hence, the space complexity is linear with respect to the size of the input list.

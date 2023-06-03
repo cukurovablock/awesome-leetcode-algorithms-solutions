@@ -1,6 +1,6 @@
 # [Hash Table to solve the Two-Sum Problem on Python language](https://leetcode.com/problems/two-sum/solutions/3577066/hash-table-to-solve-the-two-sum-problem-on-python-language/)
 
-## Approach
+## 🧑🏻‍💻 Approach
 
 The approach to solve the two-sum problem in Python involves using a dictionary (hash map) to store the previously encountered numbers and their indices.
 
@@ -10,17 +10,7 @@ If the difference is already present in the dictionary, it means we have found a
 
 If the difference is not in the dictionary, we add the current number and its index to the dictionary. This way, if a subsequent number complements the current number to reach the target, we can easily retrieve the indices of the two numbers.
 
-## Complexity
-
-- Time Complexity:
-
-The time complexity of this approach is O(n), where n is the size of the input list. We iterate through the list once, performing constant time operations for each element.
-
-- Space Complexity:
-
-The space complexity is also O(n) because, in the worst case, we might need to store all the numbers in the dictionary.
-
-## Code
+## 🔐 Code
 
 ``` python
 class Solution:
@@ -33,3 +23,13 @@ class Solution:
                 return [prevMap[diff], i]
             prevMap[n] = i
 ```
+
+## 🧩 Complexity
+
+- Time Complexity:
+
+The time complexity of this approach is O(n), where n is the size of the input list. We iterate through the list once, performing constant time operations for each element.
+
+- Space Complexity:
+
+The space complexity is also O(n) because, in the worst case, we might need to store all the numbers in the dictionary.

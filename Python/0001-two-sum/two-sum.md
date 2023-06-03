@@ -1,10 +1,21 @@
 # [Brute Force to solve the Two-Sum Problem on Python language](https://leetcode.com/problems/two-sum/solutions/3576423/brute-force-to-solve-the-two-sum-problem-on-python-language/)
 
-## Approach
+## 🧑🏻‍💻 Approach
 <!-- Describe your approach to solving the problem. -->
 The brute-force approach to solving the two-sum problem involves checking every possible pair of elements in the array and comparing their sum to the target. This can be achieved by using two nested loops, where each loop iterates through all the elements in the array. In each iteration, the current pair of elements is checked to see if their sum is equal to the target. If a match is found, the indices of the elements are stored and returned as the solution. The idea is to go through all the possible combinations of elements and check if any of them add up to the target. It's a straightforward approach that doesn't require any complex algorithms or data structures, making it easy to understand and implement.
 
-## Complexity
+## 🔐 Code
+
+``` python
+class Solution:
+    def twoSum(self, nums: List[int], target: int) -> List[int]:
+        for i in range(len(nums)):
+            for j in range(i+1, len(nums)):
+                if nums[i] + nums[j] == target:
+                    return [i,j]
+```
+
+## 🧩 Complexity
 
 - Time complexity:
 <!-- Add your time complexity here, e.g. $O(n)$ -->
@@ -23,14 +34,3 @@ In this approach, we use two integer variables, `i` and `j`, to store the indice
 We also use a constant amount of memory to store the answer, which is an array of two integers. This array is dynamically allocated using malloc, and its size does not depend on the size of the input array.
 
 Therefore, the space complexity of the algorithm is $O(1)$, which means that it uses a constant amount of memory, regardless of the size of the input array.
-
-## Code
-
-``` python
-class Solution:
-    def twoSum(self, nums: List[int], target: int) -> List[int]:
-        for i in range(len(nums)):
-            for j in range(i+1, len(nums)):
-                if nums[i] + nums[j] == target:
-                    return [i,j]
-```

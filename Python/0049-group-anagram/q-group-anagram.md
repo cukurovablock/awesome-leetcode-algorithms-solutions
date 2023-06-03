@@ -1,6 +1,6 @@
 # [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
 
-## Problem
+## 🚨 Problem
 <!-- Explanation of problem. -->
 Given an array of strings `strs`, group **the anagrams** together. You can return the answer in **any order**.
 
@@ -30,7 +30,7 @@ An **Anagram** is a word or phrase formed by rearranging the letters of a differ
 - $0 <= strs[i].length <= 100$
 - $strs[i]$ consists of lowercase English letters.
 
-## Solutions
+## 🔐 Solutions
 <!-- Solutions of problem and their links. -->
 
 | ID  |         METHOD         | LINK                     |

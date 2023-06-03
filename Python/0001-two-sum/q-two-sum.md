@@ -1,6 +1,6 @@
 # [1. Two Sum](https://leetcode.com/problems/two-sum)
 
-## Problem
+## 🚨 Problem
 
 Given an array of integers `nums` and an integer `target`, return _indices of the two numbers such that they add up to `target`_.
 
@@ -33,7 +33,7 @@ You can return the answer in any order.
 
 **Follow-up:** Can you come up with an algorithm that is less than $O(n^2)$ time complexity?
 
-## Solutions
+## 🔐 Solutions
 
 | ID  |   METHOD    | LINK                               |
 | :-- | :---------: | :--------------------------------- |

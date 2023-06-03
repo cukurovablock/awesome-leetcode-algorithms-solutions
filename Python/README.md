@@ -1,16 +1,5 @@
 # Awesome Leetcode Algorithms Solututions With Python
 
-| ID   |                                            Question Name                                            |
-| :--- | :-------------------------------------------------------------------------------------------------: |
-| 0001 |                                [Two Sum](0001-two-sum/q-two-sum.md)                                 |
-| 0217 |                [Contains Duplicate](0217-contains-duplicate/q-contains-duplicate.md)                |
-| 0242 |                       [Valid Anagram](0242-valid-anagram/q-valid-anagram.md)                        |
-| 0049 |                       [Group Anagram](0049-group-anagram/q-group-anagram.md)                        |
-| 0347 |        [Top K Frequent Elements](0347-top-k-frequent-elements/q-top-k-frequent-elements.md)         |
-| 0238 | [Product Of Array Except Self](0238-product-of-array-except-self/q-product-of-array-except-self.md) |
-
-<div align="center">
-  <h1>Awesome Leetcode Algorithms Solututions With Python</h1>
   <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/muffafa/">
     <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
   </a>
@@ -22,20 +11,21 @@
     <a href="https://linktr.ee/muffafa" target="_blank">Muhammed Mustafa (muffafa) Savar</a><br>
     <small> May, 2023</small>
   </sub>
-</div>
 
-## Introduction
+---
+
+## 🙋🏻 Introduction
 
 Welcome to the solutions of leetcode algorithms with Python.
 
-## How to Use It?
+## 🚀 How to Use It?
 
 I suggest cloning the repository locally to work with it, but you can easily look at any solution you want without cloning it. Simply press `Ctrl + F` and type the name of the question or its ID. Each folder includes an .md file that you can click on to go to the Leetcode website. There are two parts of questions:
 
 1. Problem: </br> This part includes the definition of the problem, example cases, input and output examples, constraints, and follow-up information.
 2. Solution: </br> This part includes a table to navigate to the solutions.
 
-## Solutions
+## 😎 Solutions
 
 Each .md file for a solution includes:
 
@@ -43,3 +33,14 @@ Each .md file for a solution includes:
 - Approach (describing the approach to solving the problem)
 - Complexity (determining the time and space complexity of the solution)
 - Code (the actual solution to the problem)
+  
+---
+
+| ID  | Leetcode ID |                                          👀 Question Name                                          | 📦 Category     | 🔥 Difficulty |
+| --- | :---------- | :-------------------------------------------------------------------------------------------------: | ---------------- | -------------- |
+| 1   | 0001        |                                [Two Sum](0001-two-sum/q-two-sum.md)                                 | Arrays & Hashing | Easy           |
+| 2   | 0217        |                [Contains Duplicate](0217-contains-duplicate/q-contains-duplicate.md)                | Arrays & Hashing | Easy           |
+| 3   | 0242        |                       [Valid Anagram](0242-valid-anagram/q-valid-anagram.md)                        | Arrays & Hashing | Easy           |
+| 4   | 0049        |                       [Group Anagram](0049-group-anagram/q-group-anagram.md)                        | Arrays & Hashing | Easy           |
+| 5   | 0347        |        [Top K Frequent Elements](0347-top-k-frequent-elements/q-top-k-frequent-elements.md)         | Arrays & Hashing | Easy           |
+| 6   | 0238        | [Product Of Array Except Self](0238-product-of-array-except-self/q-product-of-array-except-self.md) | Arrays & Hashing | Easy           |

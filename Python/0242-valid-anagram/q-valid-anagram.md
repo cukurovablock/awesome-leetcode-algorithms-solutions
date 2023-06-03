@@ -1,6 +1,6 @@
 # [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
 
-## Problem
+## 🚨 Problem
 <!-- Explanation of problem. -->
 Given two strings `s` and `t`, return `true` _if_ `t` _is an anagram of_ `s`_, and_ `false` _otherwise_.
 
@@ -27,7 +27,7 @@ An **Anagram** is a word or phrase formed by rearranging the letters of a differ
 <!-- Do more! -->
 What if the inputs contain Unicode characters? How would you adapt your solution to such a case?
 
-## Solutions
+## 🔐 Solutions
 <!-- Solutions of problem and their links. -->
 
 | ID  |         METHOD         | LINK                                 |
