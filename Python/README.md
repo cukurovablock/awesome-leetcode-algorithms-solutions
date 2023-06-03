@@ -41,6 +41,6 @@ Each .md file for a solution includes:
 | 1   | 0001        |                      [Two Sum](0001-two-sum/question.md)                      | Arrays & Hashing | Easy           |
 | 2   | 0217        |           [Contains Duplicate](0217-contains-duplicate/question.md)           | Arrays & Hashing | Easy           |
 | 3   | 0242        |                [Valid Anagram](0242-valid-anagram/question.md)                | Arrays & Hashing | Easy           |
-| 4   | 0049        |                [Group Anagram](0049-group-anagram/question.md)                | Arrays & Hashing | Easy           |
-| 5   | 0347        |      [Top K Frequent Elements](0347-top-k-frequent-elements/question.md)       | Arrays & Hashing | Easy           |
-| 6   | 0238        | [Product Of Array Except Self](0238-product-of-array-except-self/question.md) | Arrays & Hashing | Easy           |
+| 4   | 0049        |                [Group Anagram](0049-group-anagram/question.md)                | Arrays & Hashing | Medium         |
+| 5   | 0347        |      [Top K Frequent Elements](0347-top-k-frequent-elements/question.md)      | Arrays & Hashing | Medium         |
+| 6   | 0238        | [Product Of Array Except Self](0238-product-of-array-except-self/question.md) | Arrays & Hashing | Medium         |
