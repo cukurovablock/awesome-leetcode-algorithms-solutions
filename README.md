@@ -8,18 +8,20 @@
 | Rust       | [Rust](Rust/README.md)             | [@sektor7k](https://github.com/sektor7k)             |
 | C++        | [Cpp](Cpp/README.md)               | [@sametaydinq](https://github.com/sametaydinq)       |
 
-## Introduction
+---
+
+## 🙋🏻 Introduction
 
 Welcome to the solutions of leetcode algorithms.
 
-## How to Use It?
+## 🚀 How to Use It?
 
 I suggest cloning the repository locally to work with it, but you can easily look at any solution you want without cloning it. Simply press `Ctrl + F` and type the name of the question or its ID. Each folder includes an .md file that you can click on to go to the Leetcode website. There are two parts of questions:
 
 1. Problem: </br> This part includes the definition of the problem, example cases, input and output examples, constraints, and follow-up information.
 2. Solution: </br> This part includes a table to navigate to the solutions.
 
-## Solutions
+## 😎 Solutions
 
 Each .md file for a solution includes:
 
@@ -28,11 +30,11 @@ Each .md file for a solution includes:
 - Complexity (determining the time and space complexity of the solution)
 - Code (the actual solution to the problem)
 
-## How to Clone It?
+## 👾 How to Clone It?
 
 > `git clone https://github.com/cukurovablock/awesome-leetcode-algorithms-solutions.git`
 
-## Extensions
+## 👽 Extensions
 
 - [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
 - [Markdown Table](https://marketplace.visualstudio.com/items?itemName=TakumiI.markdowntable)
@@ -41,7 +43,7 @@ Each .md file for a solution includes:
 - [Auto-Open Markdown Preview](https://marketplace.visualstudio.com/items?itemName=hnw.vscode-auto-open-markdown-preview)
 - [vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
 
-## How to Contribute?
+## 🫶🏻 How to Contribute?
 
 [How to Contribute to Open Source Projects on GitHub](https://www.youtube.com/watch?v=waEb2c9NDL8)
 
