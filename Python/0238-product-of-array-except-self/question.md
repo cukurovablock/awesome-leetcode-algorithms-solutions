@@ -34,4 +34,4 @@ Can you solve the problem in `O(1)` extra space complexity? (The output array *
 
 | ID  |         METHOD         |
 | :-- | :--------------------: |
-| 1   | [example](1-answer.md) |
+| 1   | [Prefix & Postfix](1-answer.md) |
