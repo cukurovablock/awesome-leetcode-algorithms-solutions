@@ -14,7 +14,8 @@ The approach used in the code is as follows:
 This approach leverages the concept of prefix and postfix products to calculate the desired result efficiently in a single pass in each direction.
 
 ## 🔐 Code
-```
+
+``` python
 class Solution:
     def productExceptSelf(self, nums: List[int]) -> List[int]:
         res = [1] * (len(nums)) #[1,1,1,1]
