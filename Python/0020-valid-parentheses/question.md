@@ -38,4 +38,4 @@ An input string is valid if:
 
 | ID  |         METHOD         |
 | :-- | :--------------------: |
-| 1   | [example](1-answer.md) |
+| 1   | [Stack and Map](1-answer.md) |
