@@ -1,12 +1,12 @@
 # Awesome Leetcode Algorithms Solututions
 
-| Language   | Repo Link                          | Contributors                                         |
-| ---------- | ---------------------------------- | ---------------------------------------------------- |
-| Python     | [Pyhton](Python/README.md)         | [@muffafa](https://github.com/muffafa)               |
-| Java       | [JAVA](Java/README.md)             | [@cagridemirtash](https://github.com/cagridemirtash) |
-| Javascript | [Javascript](Javascript/README.md) | [@kaanncavdar](https://github.com/kaanncavdar)       |
-| Rust       | [Rust](Rust/README.md)             | [@sektor7k](https://github.com/sektor7k)             |
-| C++        | [Cpp](Cpp/README.md)               | [@sametaydinq](https://github.com/sametaydinq)       |
+| 🗣️ Language | 🔗 Repo Link                      | 👀 Contributors                                     | 🧠 Quantity |
+| -------------- | ---------------------------------- | ---------------------------------------------------- | ------------ |
+| Python         | [Pyhton](Python/README.md)         | [@muffafa](https://github.com/muffafa)               | 8            |
+| Java           | [JAVA](Java/README.md)             | [@cagridemirtash](https://github.com/cagridemirtash) | 3            |
+| Javascript     | [Javascript](Javascript/README.md) | [@kaanncavdar](https://github.com/kaanncavdar)       | 4            |
+| Rust           | [Rust](Rust/README.md)             | [@sektor7k](https://github.com/sektor7k)             | 7            |
+| C++            | [Cpp](Cpp/README.md)               | [@sametaydinq](https://github.com/sametaydinq)       | 0            |
 
 ---
 
