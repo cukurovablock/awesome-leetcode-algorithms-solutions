@@ -45,3 +45,4 @@ Each .md file for a solution includes:
 | 5   | 0347        |      [Top K Frequent Elements](0347-top-k-frequent-elements/question.md)      | Arrays & Hashing | Medium         |
 | 6   | 0238        | [Product Of Array Except Self](0238-product-of-array-except-self/question.md) | Arrays & Hashing | Medium         |
 | 7   | 0020        |            [Valid Parentheses](0020-valid-parentheses/question.md)            | Stack            | Easy           |
+| 8   | 0125        |             [Valid Palindrome](0125-valid-palindrome/question.md)             | Two Pointers     | Easy           |
