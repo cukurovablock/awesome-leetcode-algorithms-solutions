@@ -38,6 +38,6 @@ Given a string `s`, return `true` _if it is a **palindrome**, or_ `false` _other
 ## 🔐 Solutions
 <!-- Solutions of problem and their links. -->
 
-| ID  |         METHOD         |
-| :-- | :--------------------: |
-| 1   | [example](1-answer.md) |
+| ID  |                METHOD                 |
+| :-- | :-----------------------------------: |
+| 1   | [Lowercase Alphanumeric](1-answer.md) |
