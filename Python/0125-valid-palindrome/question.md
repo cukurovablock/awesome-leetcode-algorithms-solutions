@@ -1,4 +1,4 @@
-# [Header](Link)
+# [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
 
 ## 🚨 Problem
 <!-- Explanation of problem. -->
