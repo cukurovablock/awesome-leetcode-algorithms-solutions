@@ -41,6 +41,6 @@ minStack.getMin(); // return -2
 ## 🔐 Solutions
 <!-- Solutions of problem and their links. -->
 
-| ID  |         METHOD         |
-| :-- | :--------------------: |
-| 1   | [example](1-answer.md) |
+| ID  |           METHOD            |
+| :-- | :-------------------------: |
+| 1   | [Double Stack](1-answer.md) |
