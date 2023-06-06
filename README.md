@@ -1,4 +1,4 @@
-# Awesome Leetcode Algorithms Solututions
+# Awesome Leetcode Algorithms Solutions
 
 | 🗣️ Language | 🔗 Repo Link                      | 👀 Contributors                                     | 🧠 Quantity |
 | -------------- | ---------------------------------- | ---------------------------------------------------- | ------------ |
