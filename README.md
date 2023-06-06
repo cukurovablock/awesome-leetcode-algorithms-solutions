@@ -52,7 +52,7 @@ You can create a custom snippet for .md files in Visual Studio Code:
 1. Open Visual Studio Code, click "File" > "Preferences" > "User Snippets".
 2. Select "Markdown" from the list of languages.
 3. Add the following code to create a basic markdown snippet.
-4. You can easily type `mdproblem` to create a problem template and `mdsolution` to create a solution template.
+4. You can easily type `mdproblem` to create a problem template and `mdsolution` to create a solution template. `mdexample`, `mdexamplewithexplanation` and `mdheading` snippets also can be used.
 5. Now you can easily start contributing!
 
 ``` json
@@ -128,6 +128,26 @@ You can create a custom snippet for .md files in Visual Studio Code:
    "**Output:** ${3} </br> <!-- Output example. -->",
   ],
   "description": "It creates a example template for leetcode problem"
+ },
+ "Leetcode Example Template w/ Explanation": {
+  "prefix": "mdexamplewithexplanation",
+  "body": [
+   "**Example ${1}:**",
+   "<!-- An example of problem. -->",
+   "",
+   ">**Input:** ${2} </br> <!-- Input example. -->",
+   "**Output:** ${3} </br> <!-- Output example. -->",
+   "**Explanation:** ${4} <!-- Basic explanation of example. -->",
+   ""
+  ],
+  "description": "It creates a example template with explanation for leetcode problem"
+ },
+ "Leetcode Heading Template for Solution": {
+  "prefix": "mdheading",
+  "body": [
+   "✅ ${1:Method} to solve the 🧑🏻‍💻 ${2:Question Name} Problem on 🐍 ${3:Language Name}"
+  ],
+  "description": "It creates a heading for leetcode solution"
  }
 }
 ```
