@@ -128,6 +128,19 @@ You can create a custom snippet for .md files in Visual Studio Code:
    "**Output:** ${3} </br> <!-- Output example. -->",
   ],
   "description": "It creates a example template for leetcode problem"
+ },
+ "Leetcode Example Template w/ Explanation": {
+  "prefix": "mdexamplewithexplanation",
+  "body": [
+   "**Example ${1}:**",
+   "<!-- An example of problem. -->",
+   "",
+   ">**Input:** ${2} </br> <!-- Input example. -->",
+   "**Output:** ${3} </br> <!-- Output example. -->",
+   "**Explanation:** ${4} <!-- Basic explanation of example. -->",
+   ""
+  ],
+  "description": "It creates a example template with explanation for leetcode problem"
  }
 }
 ```
