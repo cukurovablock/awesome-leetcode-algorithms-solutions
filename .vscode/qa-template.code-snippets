@@ -83,5 +83,12 @@
 			""
 		],
 		"description": "It creates a example template with explanation for leetcode problem"
+	},
+	"Leetcode Heading Template for Solution": {
+		"prefix": "mdheading",
+		"body": [
+			"✅ ${1:Method} to solve the 🧑🏻‍💻 ${2:Question Name} Problem on 🐍 ${3:Language Name}"
+		],
+		"description": "It creates a heading for leetcode solution"
 	}
 }
