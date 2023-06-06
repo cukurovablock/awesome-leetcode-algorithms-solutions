@@ -47,3 +47,4 @@ Each .md file for a solution includes:
 | 7   | 0020        |            [Valid Parentheses](0020-valid-parentheses/question.md)            | Stack            | Easy           | Facebook    |
 | 8   | 0125        |             [Valid Palindrome](0125-valid-palindrome/question.md)             | Two Pointers     | Easy           | Spotify     |
 | 9   | 0155        |                    [Min Stack](0155-min-stack/question.md)                    | Stack            | Medium         | Amazon      |
+| 10  | 0167        |        [Two Sum II Input Array Is Sorted](0167-two-sum-2/question.md)         | Two Pointers     | Medium         | Amazon      |
