@@ -2,7 +2,7 @@
 
 | 🗣️ Language | 🔗 Repo Link                      | 👀 Contributors                                     | 🧠 Quantity |
 | -------------- | ---------------------------------- | ---------------------------------------------------- | ------------ |
-| Python         | [Python](Python/README.md)         | [@muffafa](https://github.com/muffafa)               | 9            |
+| Python         | [Python](Python/README.md)         | [@muffafa](https://github.com/muffafa)               | 10           |
 | Java           | [JAVA](Java/README.md)             | [@cagridemirtash](https://github.com/cagridemirtash) | 3            |
 | Javascript     | [Javascript](Javascript/README.md) | [@kaanncavdar](https://github.com/kaanncavdar)       | 4            |
 | Rust           | [Rust](Rust/README.md)             | [@sektor7k](https://github.com/sektor7k)             | 10           |
