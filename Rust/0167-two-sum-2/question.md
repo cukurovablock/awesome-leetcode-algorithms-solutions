@@ -47,4 +47,4 @@ Your solution must use only constant extra space.
 
 | ID  |         METHOD         |
 | :-- | :--------------------: |
-| 1   | [example](1-answer.md) |
+| 1   | [Brute Force](1-answer.md) |
