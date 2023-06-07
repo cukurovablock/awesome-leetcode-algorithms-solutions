@@ -44,4 +44,4 @@ minStack.getMin(); // return -2
 | ID  |           METHOD            |
 | :-- | :-------------------------: |
 | 1   | [Double Stack](1-answer.md) |
-| 2   | [Double Stack](2-answer.md) |
+| 2   | [Double Stack 2](2-answer.md) |

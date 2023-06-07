@@ -2,16 +2,18 @@
 
 ---
 
-| ID  | Leetcode ID |                               👀 Question Name                               | 📦 Category     | 🔥 Difficulty |
-| --- | :---------- | :---------------------------------------------------------------------------: | ---------------- | -------------- |
-| 1   | 0001        |                     [Two Sum](0001-two-sum/q-two-sum.md)                      | Arrays & Hashing | Easy           |
-| 2   | 0217        |     [Contains Duplicate](0217-contains-duplicate/q-contains-duplicate.md)     | Arrays & Hashing | Easy           |
-| 3   | 0242        |            [Valid Anagram](0242-valid-anagram/q-valid-anagram.md)             | Arrays & Hashing | Easy           |
-| 4   | 0049        |            [Group Anagram](0049-group-anagram/q-group-anagram.md)             | Arrays & Hashing | Medium         |
-| 5   | 0347        |      [Top K Frequent Elements](0347-top-k-frequent-elements/question.md)      | Arrays & Hashing | Medium         |
-| 6   | 0238        | [Product Of Array Except Self](0238-product-of-array-except-self/question.md) | Arrays & Hashing | Medium         |
-| 7   | 0020        |            [Valid Parentheses](0020-valid-parentheses/question.md)            | Stack            | Easy           |
-| 8   | 0155        |                    [Min Stack](0155-min-stack/question.md)                    | Stack            | Medium         |
+| ID  | Leetcode ID |                               👀 Question Name                               | 📦 Category     | 🔥 Difficulty | 🏢 Company |
+| --- | :---------- | :---------------------------------------------------------------------------: | ---------------- | -------------- | ----------- |
+| 1   | 0001        |                      [Two Sum](0001-two-sum/question.md)                      | Arrays & Hashing | Easy           | Microsoft   |
+| 2   | 0217        |           [Contains Duplicate](0217-contains-duplicate/question.md)           | Arrays & Hashing | Easy           | Uber        |
+| 3   | 0242        |                [Valid Anagram](0242-valid-anagram/question.md)                | Arrays & Hashing | Easy           | Facebook    |
+| 4   | 0049        |                [Group Anagram](0049-group-anagram/question.md)                | Arrays & Hashing | Medium         | Amazon      |
+| 5   | 0347        |      [Top K Frequent Elements](0347-top-k-frequent-elements/question.md)      | Arrays & Hashing | Medium         | Amazon      |
+| 6   | 0238        | [Product Of Array Except Self](0238-product-of-array-except-self/question.md) | Arrays & Hashing | Medium         | Amazon      |
+| 7   | 0020        |            [Valid Parentheses](0020-valid-parentheses/question.md)            | Stack            | Easy           | Facebook    |
+| 8   | 0125        |             [Valid Palindrome](0125-valid-palindrome/question.md)             | Two Pointers     | Easy           | Spotify     |
+| 9   | 0155        |                    [Min Stack](0155-min-stack/question.md)                    | Stack            | Medium         | Amazon      |
+| 10  | 0167        |        [Two Sum II Input Array Is Sorted](0167-two-sum-2/question.md)         | Two Pointers     | Medium         | Amazon      |
 
 <div align="center">
   <h1>Awesome Leetcode Algorithms Solututions With Rust</h1>

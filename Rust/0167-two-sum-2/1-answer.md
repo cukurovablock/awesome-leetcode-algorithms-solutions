@@ -1,5 +1,4 @@
-# Brute Force to solve the Two-Sum Problem on Rust language
-
+# Brute Force to solve the Two-Sum 2 Problem on Rust language
 
 ## Complexity
 
@@ -20,28 +19,28 @@ Finally, you return the `result` vector.
 impl Solution {
     pub fn two_sum(nums: Vec<i32>, target: i32) -> Vec<i32> {
 
-        let mut result = Vec::new();
-        
-    for i in nums.iter().enumerate(){
-
-
-    for j in nums.iter().enumerate(){
-
-        if i.0 != j.0 && i.1+j.1== target{
-
-          result.push(i.0 as i32);
-          result.push(j.0 as i32);
-          break;
-          
-        }
-    }
-    if result.len()>0{
-      break;
-    }
-  }
-  return result;
-
+    let mut result = Vec::new();
     
+for i in nums.iter().enumerate(){
+
+
+for j in nums.iter().enumerate(){
+
+    if i.0 != j.0 && i.1+j.1== target{
+
+      result.push((i.0 as i32)+1);
+      result.push((j.0 as i32)+1);
+      break;
+      
     }
-}  
+}
+if result.len()>0{
+  break;
+}
+}
+return result;
+
+
+}
+}
 ```
