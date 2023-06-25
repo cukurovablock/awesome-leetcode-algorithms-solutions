@@ -39,3 +39,4 @@ A linked list can be reversed either iteratively or recursively. Could you imple
 | ID  |          METHOD          |
 | :-- | :----------------------: |
 | 1   | [Iterative](1-answer.md) |
+| 2   | [Recursive](2-answer.md) |
