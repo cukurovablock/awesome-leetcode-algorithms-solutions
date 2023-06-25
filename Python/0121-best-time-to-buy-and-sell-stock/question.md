@@ -33,4 +33,4 @@ Note that buying on day 2 and selling on day 1 is not allowed because you must b
 
 | ID  |         METHOD         |
 | :-- | :--------------------: |
-| 1   | [example](1-answer.md) |
+| 1   | [Two Pointer](1-answer.md) |
