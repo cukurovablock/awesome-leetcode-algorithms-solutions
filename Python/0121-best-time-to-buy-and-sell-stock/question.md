@@ -31,6 +31,7 @@ Note that buying on day 2 and selling on day 1 is not allowed because you must b
 ## 🔐 Solutions
 <!-- Solutions of problem and their links. -->
 
-| ID  |         METHOD         |
-| :-- | :--------------------: |
-| 1   | [Two Pointer](1-answer.md) |
+| ID  |            METHOD             |
+| :-- | :---------------------------: |
+| 1   |  [Two Pointer](1-answer.md)   |
+| 2   | [Sliding Window](2-answer.md) |
