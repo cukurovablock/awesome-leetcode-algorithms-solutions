@@ -36,6 +36,6 @@ A linked list can be reversed either iteratively or recursively. Could you imple
 ## 🔐 Solutions
 <!-- Solutions of problem and their links. -->
 
-| ID  |         METHOD         |
-| :-- | :--------------------: |
-| 1   | [example](1-answer.md) |
+| ID  |          METHOD          |
+| :-- | :----------------------: |
+| 1   | [Iterative](1-answer.md) |
