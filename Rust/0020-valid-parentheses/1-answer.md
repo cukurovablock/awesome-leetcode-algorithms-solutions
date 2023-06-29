@@ -1,6 +1,6 @@
 # [✅ Stack and Map to solve the 🧑🏻‍💻 Valid Parentheses on 🦀  RUST language]()
 
-## 🧩 Complexity
+## 🧑🏻‍💻 Approach
 
 Create an empty vector called `result` to act as a stack.
 

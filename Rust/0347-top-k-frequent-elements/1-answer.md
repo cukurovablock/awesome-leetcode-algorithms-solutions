@@ -1,6 +1,6 @@
 # [✅ Counts and Sort to solve the 🧑🏻‍💻 Top K Frequent Elements Problem on 🦀 RUST language]()
 
-## 🧩 Complexity
+## 🧑🏻‍💻 Approach
 
 You defined a helper function called `remove_duplicates`. This function removes duplicate numbers from the given vector and returns a sorted vector. It achieves this by first converting the input vector into a `HashSet`, which automatically filters out duplicates. Then, it converts the `HashSet` back into a `Vec` and sorts it to maintain the order of the numbers.
 

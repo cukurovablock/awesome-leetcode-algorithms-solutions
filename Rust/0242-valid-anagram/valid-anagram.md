@@ -1,10 +1,6 @@
 # ✅ Counts the Frequencies to solve the 🧑🏻‍💻 Valid Anagram Problem on 😎 Rust language
 
-## Approach
-<!-- Describe your approach to solving the problem. -->
-In summary, the approach counts the frequencies of characters in both strings using dictionaries and checks if the character frequencies in s and t are the same. If the character frequencies match, the method returns `True`, indicating that t is an anagram of s. Otherwise, it returns `False`.
-
-## Complexity
+## 🧑🏻‍💻 Approach
 
 This code contains a function `is_anagram` nested inside a structure called `Solution`. The function checks whether the given two input strings are anagrams of each other.
 

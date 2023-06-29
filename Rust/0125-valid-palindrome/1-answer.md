@@ -1,6 +1,6 @@
 # [✅ Lowercase Alphanumeric to solve the 🧑🏻‍💻 Valid Palindrome Problem on 🦀 Python language]()
 
-## 🧩 Complexity
+## 🧑🏻‍💻 Approach
 
 The `Solution` struct contains a public function `is_palindrome` that takes a `String` parameter `s` and returns a boolean value. The goal of the function is to determine if the given string `s` is a palindrome.
 

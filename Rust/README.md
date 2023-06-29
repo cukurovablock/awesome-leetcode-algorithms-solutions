@@ -15,6 +15,7 @@
 | 9   | 0155        |                       [Min Stack](0155-min-stack/question.md)                       | Stack            | Medium         | Amazon      |
 | 10  | 0167        |           [Two Sum II Input Array Is Sorted](0167-two-sum-2/question.md)            | Two Pointers     | Medium         | Amazon      |
 | 11  | 0121        | [Best Time to Buy and Sell Stock](0121-best-time-to-buy-and-sell-stock/question.md) | Sliding Window   | Easy           |             |
+| 12  | 0206        |             [Reverse Linked List](0206-reverse-linked-list/question.md)             | Linked List      | Easy           |
 
 <div align="center">
   <h1>Awesome Leetcode Algorithms Solututions With Rust</h1>

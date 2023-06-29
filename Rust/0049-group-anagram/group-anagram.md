@@ -1,7 +1,7 @@
 # ✅ Counts the Frequencies to solve the 🧑🏻‍💻 Group Anagram Problem on 😎 Rust language
 
 
-## Complexity
+## 🧑🏻‍💻 Approach
 
 This code contains a function called `group_anagrams`, which takes a `Vec<String>` parameter named `strs` and returns a vector containing the groups of anagrams.
 
