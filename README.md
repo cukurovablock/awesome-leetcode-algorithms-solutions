@@ -5,7 +5,7 @@
 | Python         | [Python](Python/README.md)         | [@muffafa](https://github.com/muffafa)               | 14           |
 | Java           | [JAVA](Java/README.md)             | [@cagridemirtash](https://github.com/cagridemirtash) | 3            |
 | Javascript     | [Javascript](Javascript/README.md) | [@kaanncavdar](https://github.com/kaanncavdar)       | 4            |
-| Rust           | [Rust](Rust/README.md)             | [@sektor7k](https://github.com/sektor7k)             | 12           |
+| Rust           | [Rust](Rust/README.md)             | [@sektor7k](https://github.com/sektor7k)             | 13           |
 | C++            | [Cpp](Cpp/README.md)               | [@sametaydinq](https://github.com/sametaydinq)       | 0            |
 
 ---
