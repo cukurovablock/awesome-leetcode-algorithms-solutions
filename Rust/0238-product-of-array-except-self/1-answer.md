@@ -1,6 +1,6 @@
 # [✅ Prefix and Postfix to solve the 🧑🏻‍💻 Product of Array Except Self Problem on 🦀 Rust language]()
 
-## 🧩 Complexity
+## 🧑🏻‍💻 Approach
 
 First, we assign the length of the `nums` vector to the variable `n`.
 

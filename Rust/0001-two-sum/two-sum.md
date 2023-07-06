@@ -1,7 +1,7 @@
 # Brute Force to solve the Two-Sum Problem on Rust language
 
 
-## Complexity
+## 🧑🏻‍💻 Approach
 
 The function `two_sum` takes two parameters: a vector of integers `nums` and a target integer `target`. It aims to find two numbers in the `nums` vector whose sum equals the `target`. The function returns a vector containing the indices of these two numbers.
 

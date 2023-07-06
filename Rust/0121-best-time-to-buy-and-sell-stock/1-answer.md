@@ -1,6 +1,6 @@
 # [✅ Double Stack to solve the 🧑🏻‍💻 Best Time to Buy and Sell Stock Problem on 🦀 RUST language](#)
 
-## 🧩 Complexity
+## 🧑🏻‍💻 Approach
 
 The function `max_profit` takes a vector of integers `prices` as input and returns an integer representing the maximum profit that can be obtained from buying and selling a stock.
 

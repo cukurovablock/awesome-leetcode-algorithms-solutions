@@ -1,6 +1,6 @@
 # [✅ Double Stack to solve the 🧑🏻‍💻 Min Stack Problem on 🦀 RUST language]()
 
-## 🧩 Complexity
+## 🧑🏻‍💻 Approach
 
 `new()`: This is the constructor method that creates a new instance of `MinStack` by initializing an empty `Vec` using `Vec::new()`.
 
